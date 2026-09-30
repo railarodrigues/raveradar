@@ -1,0 +1,1 @@
+{"name":"rave-radar","version":"1.0.0","private":true,"type":"module","description":"Planner de raves com orçamento, checklist e favoritos locais.","scripts":{"start":"node server.js","test":"node --test"},"engines":{"node":">=20"}}
